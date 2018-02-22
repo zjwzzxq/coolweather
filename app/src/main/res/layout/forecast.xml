@@ -28,7 +28,16 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginLeft="190dp"
+            android:layout_marginLeft="120dp"
+            android:layout_marginTop="15dp"
+            android:text="天气"
+            android:textColor="#fff"
+            android:textSize="15sp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="40dp"
             android:layout_marginTop="15dp"
             android:text="高温"
             android:textColor="#fff"
